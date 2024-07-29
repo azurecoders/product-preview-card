@@ -90,6 +90,10 @@ button {
   font-size: 1.2rem;
   cursor: pointer;
   transition: all 0.1s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
 }
 
 #mobileImg {
